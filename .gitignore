@@ -1,4 +1,5 @@
 aclocal.m4
+.DS_Store
 autom4te.cache/
 /bruteforce-wallet
 compile
